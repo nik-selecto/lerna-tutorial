@@ -20,5 +20,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/nik-selecto/lerna-tutorial.git"
-  }
+  },
+  "gitHead": "c7868f4e46633ba4e9ea891a8c3705e93763914a"
 }

@@ -20,5 +20,6 @@
   "scripts": {
     "tsc": "npx tsc -p tsconfig.json",
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "c7868f4e46633ba4e9ea891a8c3705e93763914a"
 }
