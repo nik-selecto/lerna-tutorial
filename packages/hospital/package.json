@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nik-selecto/lerna-tutorial.git"
+    "url": "https://github.com/nik-selecto/lerna-tutorial.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
