@@ -1,5 +1,5 @@
 {
-  "name": "@lerna-tutorial/integration",
+  "name": "@nik-s-learning/integration",
   "version": "0.3.0",
   "description": "",
   "main": "lib/index.js",
@@ -20,5 +20,5 @@
     "type": "git",
     "url": "https://github.com/nik-selecto/lerna-tutorial.git"
   },
-  "gitHead": "c7868f4e46633ba4e9ea891a8c3705e93763914a"
+  "gitHead": "122f7e0731e6889dda10c33c57bc3c0c7a5a9437"
 }
