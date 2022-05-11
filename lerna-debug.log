@@ -1,12 +1,6 @@
-0 silly argv {
-0 silly argv   _: [ 'add' ],
-0 silly argv   scope: 'integration',
-0 silly argv   globs: [],
-0 silly argv   lernaVersion: '4.0.0',
-0 silly argv   '$0': 'node_modules/.bin/lerna',
-0 silly argv   pkg: '@lerna-tutorial/doctor'
-0 silly argv }
-1 notice cli v4.0.0
-2 verbose rootPath /home/nik/lerna-tutorial
-3 error HttpErrorGeneral: 404 Not Found - GET https://registry.npmjs.org/@lerna-tutorial%2fdoctor - Not found
-3 error     at /home/nik/lerna-tutorial/node_modules/pacote/node_modules/npm-registry-fetch/check-response.js:95:15
+54 error Error: Command failed with exit code 128: git tag v0.1.0 -m v0.1.0
+54 error fatal: tag 'v0.1.0' already exists
+54 error     at makeError (/home/nik/lerna-tutorial/node_modules/execa/lib/error.js:60:11)
+54 error     at handlePromise (/home/nik/lerna-tutorial/node_modules/execa/index.js:118:26)
+54 error     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+54 error     at async Promise.all (index 0)
