@@ -11,6 +11,7 @@
     "lib": "lib",
     "test": "__tests__"
   },
+  "private": false,
   "publishConfig": {
     "access": "public"
   },
