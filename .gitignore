@@ -1,4 +1,8 @@
 node_modules
 dist
-.env
 packages/*/lib
+
+.env
+
+lerna-debug.log
+npm-debug.log
