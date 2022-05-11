@@ -13,6 +13,10 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nik-selecto/lerna-tutorial.git"
+  },
   "scripts": {
     "tsc": "npx tsc -p tsconfig.json",
     "test": "echo \"Error: run tests from root\" && exit 1"

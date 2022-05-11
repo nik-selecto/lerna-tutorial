@@ -16,5 +16,9 @@
   "scripts": {
     "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nik-selecto/lerna-tutorial.git"
   }
 }

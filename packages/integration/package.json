@@ -15,5 +15,9 @@
     "@lerna-tutorial/doctor": "^0.0.0",
     "@lerna-tutorial/patient": "^0.0.0",
     "@lerna-tutorial/scheduler": "^0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nik-selecto/lerna-tutorial.git"
   }
 }
