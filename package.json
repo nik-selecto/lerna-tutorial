@@ -3,6 +3,7 @@
     "lerna": "^4.0.0"
   },
   "scripts": {
+    "publish": "npx lerna run tsc && npx lerna publish",
     "integration:start": "cd packages/integration && npm run tsc && npm start"
   },
   "name": "lerna-tutorial",
