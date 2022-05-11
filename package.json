@@ -1,7 +1,8 @@
 {
   "name": "im-learning-lerna",
   "scripts": {
-    "build": "npx tsc -p tsconfig.json"
+    "build": "npx tsc -p tsconfig.json",
+    "publish": "npx lerna run build && npx lerna run publish"
   },
   "private": false,
   "devDependencies": {
