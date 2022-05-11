@@ -1,0 +1,34 @@
+{
+  "name": "@im-learning-lerna/hospital",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "nik <n.moiseienko@selectoglobal.com>",
+  "homepage": "https://github.com/nik-selecto/lerna-tutorial#readme",
+  "license": "ISC",
+  "main": "lib/hospital.js",
+  "typings": "lib/hospital.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nik-selecto/lerna-tutorial.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "npx tsc -p tsconfig.json"
+  },
+  "bugs": {
+    "url": "https://github.com/nik-selecto/lerna-tutorial/issues"
+  },
+  "dependencies": {
+    "@im-learning-lerna/doctor": "^0.0.0"
+  }
+}
